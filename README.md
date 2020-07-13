@@ -18,7 +18,7 @@ There a tree projects Manufactering , Retail and Transportation scenario to test
 ![Metrics](./Images/Retailplot.png)
 
 ### Transportation
-![Transportation](./Images/transportation.png)
+![Transportation](./Images/Transportation.png)
 ![Metrics](./Images/Transportationplot.png) 
 
 ## How it Works
